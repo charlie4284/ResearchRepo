@@ -1,0 +1,3 @@
+mxnet-cu102
+gluoncv
+notebook
